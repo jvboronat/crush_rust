@@ -2,10 +2,11 @@
 //mod vars;
 // mod types;
 //mod strings;
-mod tuples;
+//mod tuples;
+mod arrays;
 
 fn main() {
     //print::run();
-    tuples::run();
+    arrays::run();
 
 }
