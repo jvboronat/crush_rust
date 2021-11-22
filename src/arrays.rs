@@ -8,6 +8,8 @@ pub fn run() {
     // Re-assign value
     numbers[2] = 20;
 
+    println!("{:?}", numbers);    
+
     // Single value
     println!("Single value {}", numbers[0]);
 
