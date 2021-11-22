@@ -7,10 +7,11 @@
 //mod vectors;
 //mod conditionals;
 //mod loops;
-mod funcs;
+//mod funcs;
+mod pointer_ref;
 
 fn main() {
     
-    funcs::run();
+    pointer_ref::run();
 
 }
